@@ -4,7 +4,9 @@ import { MainLayout } from "./components";
 function App() {
   return (
     <>
-      <MainLayout />
+      <MainLayout>
+        <div>Primer Componente</div>
+      </MainLayout>
     </>
   );
 }
