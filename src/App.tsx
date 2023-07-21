@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <MainLayout>
-        <div>Primer Componente</div>
+        <div className="bg-red-400">Primer Componente</div>
       </MainLayout>
     </>
   );
